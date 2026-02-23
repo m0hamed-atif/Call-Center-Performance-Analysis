@@ -1,9 +1,5 @@
 # 📊 Call Center Performance Analysis – Power BI
 
-![Home](Screenshots/Home.png)
-
----
-
 ## 🚀 Project Overview
 
 This project presents a complete Call Center performance analysis using Power BI.
