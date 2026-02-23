@@ -1,89 +1,145 @@
-# Call-Center-Performance-Analysis
-Power BI dashboard analyzing Call Center KPIs including ASA, Abandonment Rate and MoM performance.
-📊 Call Center Performance Analysis – Power BI Project
-📌 Project Overview
+# 📊 Call Center Performance Analysis – Power BI
 
-This project presents a complete performance analysis for a Call Center department using Power BI.
+![Home](Screenshots/Home.png)
 
-The analysis was conducted on clean and structured datasets covering three months:
+---
 
-February
+## 🚀 Project Overview
 
-March
+This project presents a complete Call Center performance analysis using Power BI.
 
-April
+The objective was to transform operational data (February – March – April) into actionable insights to support management decision-making.
 
-The goal was to transform raw operational data into actionable business insights that support management decision-making.
+The dashboard focuses on:
 
-🛠 Tools & Technologies
+- Performance Monitoring  
+- Agent Efficiency  
+- Abandonment Analysis  
+- What-If Scenario Simulation  
 
-Power BI
+---
 
-Power Query
+## 🛠 Tools & Technologies
 
-DAX
+- Power BI  
+- Power Query  
+- DAX  
+- Data Modeling  
 
-Data Modeling
+---
 
-📈 Key KPIs
+## 📈 Key Performance Indicators (KPIs)
 
-Total Forecasted Calls
+- Total Forecasted Calls  
+- Total Calls Offered  
+- Total Calls Handled  
+- Total Calls Abandoned  
+- Gross Rate  
+- Abandonment Rate  
+- Month-over-Month (MoM) Analysis  
+- Average Speed of Answer (ASA)  
 
-Total Calls Offered
+---
 
-Total Calls Handled
+# 🖥 Dashboard Pages
 
-Total Calls Abandoned
+---
 
-Gross Rate
+## 🏠 Home Page
 
-Abandonment Rate
+![Home](Screenshots/Home.png)
 
-Month over Month (MoM) Growth
+Interactive navigation page to:
+- Dashboard  
+- Why Analysis  
+- What-If Analysis  
 
-🏆 Advanced Insights
-1️⃣ Agent Performance Analysis
+---
 
-Top 3 Agents based on Average Speed of Answer (ASA)
+## 📊 Main Dashboard
 
-Monthly ASA comparison
+![Dashboard](Screenshots/Dashboard.png)
 
-Individual agent response analysis
+### Highlights
 
-2️⃣ Why Analysis Section
+- Total Forecasted Calls: **2M**
+- Total Calls Offered: **1.74M**
+- Total Calls Handled: **1.72M**
+- Total Calls Abandoned: **23K**
+- Top 3 Agents in Call Response
+- Monthly Target Gauge
+- ASA by Month
+- Abandonment Rate Trend
 
-Identified reasons behind call abandonment by analyzing:
+---
 
-Response time per agent
+## 🔍 Why Analysis
 
-Monthly trend patterns
+![Why](Screenshots/Why.png)
 
-Performance distribution
+Drill-through analysis to identify:
 
-3️⃣ What-If Analysis
+- Root causes of abandoned calls  
+- Agent-level performance breakdown  
+- Project-level contribution  
+- Monthly trend comparison  
 
-Dynamic simulation to evaluate:
+This section helped management identify operational bottlenecks.
 
-How improving ASA impacts overall performance
+---
 
-Forecasted operational improvements
+## 🔮 What-If Analysis
 
-📊 Dashboard Preview
+![WhatIf](Screenshots/WhatIf.png)
 
-(Add screenshots here)
+Dynamic simulation allowing managers to test:
 
-🎯 Business Impact
+- How improving ASA impacts performance  
+- Expected reduction in abandonment rate  
+- Monthly impact comparison  
 
-Improved visibility into call handling efficiency
+This feature supports predictive decision-making.
 
-Identified performance gaps
+---
 
-Enabled management to simulate performance improvements
+## 📊 Data Modeling
 
-Supported data-driven decision-making
+- Consolidated 3 months using Power Query  
+- Created Date Table using DAX  
+- Built relational model  
+- Designed calculated measures for dynamic reporting  
 
-👨‍💻 Author
+---
 
-Mohamed Atef
-Junior Data Engineer
-Open to Data Analytics & BI Opportunities
+## 📂 Repository Structure
+
+```
+Call-Center-Performance-Analysis/
+│
+├── Dataset/
+├── Dashboard/
+├── DAX/
+├── Screenshots/
+└── README.md
+```
+
+---
+
+## 📌 Business Impact
+
+✔ Identified main reasons for call abandonment  
+✔ Highlighted top-performing agents  
+✔ Enabled performance forecasting  
+✔ Supported data-driven decision-making  
+
+---
+
+## 👨‍💻 Author
+
+**Mohamed Atif**  
+Junior Data Engineer  
+Open to BI & Data Analytics Opportunities  
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
