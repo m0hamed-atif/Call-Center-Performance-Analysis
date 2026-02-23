@@ -47,8 +47,6 @@ The dashboard focuses on:
 
 ## 🏠 Home Page
 
-![Home](Screenshots/Home.png)
-
 Interactive navigation page to:
 - Dashboard  
 - Why Analysis  
@@ -57,8 +55,6 @@ Interactive navigation page to:
 ---
 
 ## 📊 Main Dashboard
-
-![Dashboard](Screenshots/Dashboard.png)
 
 ### Highlights
 
@@ -75,8 +71,6 @@ Interactive navigation page to:
 
 ## 🔍 Why Analysis
 
-![Why](Screenshots/Why.png)
-
 Drill-through analysis to identify:
 
 - Root causes of abandoned calls  
@@ -89,8 +83,6 @@ This section helped management identify operational bottlenecks.
 ---
 
 ## 🔮 What-If Analysis
-
-![WhatIf](Screenshots/WhatIf.png)
 
 Dynamic simulation allowing managers to test:
 
